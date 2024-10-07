@@ -16,5 +16,11 @@ namespace DoAnCuoiMon
         {
             InitializeComponent();
         }
+
+        private void quảnLýSảnPhẩmToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SanPham sp = new SanPham();
+            sp.Show();
+        }
     }
 }

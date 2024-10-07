@@ -7,7 +7,22 @@
     <Compile Update="DangKy.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="HoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="QLTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SanPham.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="TrangChu.cs">
